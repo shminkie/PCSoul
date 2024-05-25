@@ -49,4 +49,4 @@ PCSoul is released under the GPL License. For more details, see the [LICENSE](LI
 
 ## 📬 Contact
 
-Have questions or want to get in touch? Drop us a line at [your-email@example.com](mailto:your-email@example.com) or visit our [project page](https://github.com/yourusername/pcsoul).
+Have questions or want to get in touch? Drop us a line at [your-email@example.com](mailto:shminkie@outlook.com) or visit our [project page](https://github.com/yourusername/pcsoul).
