@@ -49,4 +49,4 @@ PCSoul is released under the GPL License. For more details, see the [LICENSE](LI
 
 ## 📬 Contact
 
-Have questions or want to get in touch? Shoot a message through [E-mail](mailto:shminkie@outlook.com) or visit our [Discord]([www.universium.one](https://discord.com/servers/universium-632484400155590656)).
+Have questions or want to get in touch? Shoot a message through [E-mail](mailto:shminkie@outlook.com) or visit our [Discord](https://discord.com/servers/universium-632484400155590656).
